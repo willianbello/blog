@@ -3,7 +3,7 @@ iniciando estudos em HTML5 e CSS3 criando um blog simples com animações, trans
 
 Elementos utilizados:
 
-* HTML
+** HTML
 
 - div - criar divisões em bloco;
 - span - criar elementos inline;
@@ -13,7 +13,7 @@ Elementos utilizados:
 - p - criação de parágrafos;
 - link - criar um link para documentos de stylesheet(css)/javascript;
 
-* CSS 3
+** CSS 3
 - keyframes - criação de frames para animação;
 - from - usado junto com o keyframe para dizer o estado inicial da animação;
 - to - usado junto com o keyframe para dizer o estado final da animação;
