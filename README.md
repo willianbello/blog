@@ -2,7 +2,7 @@
 iniciando estudos em HTML5 e CSS3 criando um blog simples com animações, transições, formatações de elementos.
 
 Elementos utilizados:
-HTML{
+HTML
   div - criar divisões em bloco;
   span - criar elementos inline;
   a - criação de hyperlinks;
@@ -10,8 +10,8 @@ HTML{
   h1/h2/h4 - criação de título de forma hierárquica começando do h1 até o h6;
   p - criação de parágrafos;
   link - criar um link para documentos de stylesheet(css)/javascript;
-}
-CSS 3 {
+
+CSS 3 
   keyframes - criação de frames para animação;
   from - usado junto com o keyframe para dizer o estado inicial da animação;
   to - usado junto com o keyframe para dizer o estado final da animação;
@@ -32,4 +32,4 @@ CSS 3 {
   box-shadow: criar sombra para caixas;
   text-shadow: criar sombra para textos;
   display: alterar o modo como elemento se comporta (inline, block, inline-block);
-}
+
